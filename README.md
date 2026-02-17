@@ -120,10 +120,7 @@ Make sure the following are installed:
 
 Developed by Abu Talha Siddique
 
----
 
-## ⭐ Support
 
-If you like this project, please give it a star on GitHub!
 
 
