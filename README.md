@@ -1,8 +1,28 @@
-# Quiz Website
+# 🎯 Quiz Website
 
-## 🚀 How to Run the Project
+## 🚀 Project Overview
 
-Follow the steps below to run the project locally.
+Quiz Website is a full-stack web application built using **React.js** for the frontend and **Node.js + Express.js** for the backend.  
+It allows users to take quizzes, submit answers, and view results dynamically.
+
+---
+
+## ✨ Features / Functionality
+
+- 📝 User can attempt quizzes
+- 📊 Automatic score calculation
+- 🔄 Dynamic question rendering
+- 💾 Backend API integration
+- 🗂 Organized frontend and backend structure
+- 🌐 REST API communication between client and server
+- 📦 MongoDB database integration
+- ⚡ Fast and responsive UI
+
+---
+
+## 📦 How to Run the Project
+
+Follow these steps to run the project locally:
 
 ---
 
@@ -18,12 +38,12 @@ Follow the steps below to run the project locally.
    npm install
    ```
 
-3. Start the frontend server:
+3. Start the frontend:
    ```bash
    npm start
    ```
 
-The frontend will run at:
+Frontend runs on:
 ```
 http://localhost:3000
 ```
@@ -42,12 +62,12 @@ http://localhost:3000
    npm install
    ```
 
-3. Start the backend server:
+3. Start the backend:
    ```bash
    npm start
    ```
 
-The backend will run at:
+Backend runs on:
 ```
 http://localhost:4000
 ```
@@ -60,24 +80,50 @@ http://localhost:4000
 - Node.js
 - Express.js
 - MongoDB
+- JavaScript
+- HTML5 & CSS3
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 ```
 quiz/
 │
-├── client/      # Frontend
-├── server/      # Backend
+├── client/          # React Frontend
+├── server/          # Node.js Backend
+├── package.json
 └── README.md
 ```
 
 ---
 
-## 📌 Notes
+## ⚙️ Requirements
 
-- Make sure Node.js is installed on your system.
+Make sure the following are installed:
+
+- Node.js
+- npm
+- MongoDB (if using local database)
+
+---
+
+## 📝 Notes
+
 - Run frontend and backend in separate terminals.
 - Ensure MongoDB is running before starting the backend.
+- Use correct port numbers if modified in the project.
+
+---
+
+## 👨‍💻 Author
+
+Developed by Abu Talha Siddique
+
+---
+
+## ⭐ Support
+
+If you like this project, please give it a star on GitHub!
+
 
