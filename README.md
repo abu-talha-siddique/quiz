@@ -119,7 +119,7 @@ Make sure the following are installed:
 ## 👨‍💻 Author
 
 Developed by Abu Talha Siddique
-Demo video link-> https://drive.google.com/file/d/1NzFWrepWH5z7wB63x_QJcublrKXnaV-0/view?usp=drive_link
+Demo video link-> https://drive.google.com/file/d/1ThaQQ1WOPJcOn2QEG4VP6zcf9TeVBnj-/view?usp=drive_link
 
 
 
