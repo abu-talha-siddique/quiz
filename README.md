@@ -1,49 +1,83 @@
-
 # Quiz Website
 
 ## 🚀 How to Run the Project
 
+Follow the steps below to run the project locally.
+
+---
+
 ### 🔹 Frontend Setup
 
-1. Go to the frontend folder:
+1. Navigate to the frontend folder:
    ```bash
-  cd client
+   cd client
+   ```
 
-dependencies:
-npm install
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-Start the frontend:
-npm start
+3. Start the frontend server:
+   ```bash
+   npm start
+   ```
 
-Frontend will run on:
+The frontend will run at:
+```
 http://localhost:3000
+```
 
+---
 
-Backend Setup
-Go to the backend folder:
-cd server
+### 🔹 Backend Setup
 
-Install dependencies:
-npm install
+1. Navigate to the backend folder:
+   ```bash
+   cd server
+   ```
 
-Start the backend:
-npm start
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-Backend will run on:
+3. Start the backend server:
+   ```bash
+   npm start
+   ```
+
+The backend will run at:
+```
 http://localhost:4000
+```
 
-🛠 Technologies Used
+---
 
-React.js (Frontend)
-Node.js
-Express.js
-MongoDB
+## 🛠 Technologies Used
 
-📂 Project Structure
+- React.js (Frontend)
+- Node.js
+- Express.js
+- MongoDB
+
+---
+
+## 📂 Project Structure
+
+```
 quiz/
 │
-├── client/     # Frontend
-├── server/     # Backend
+├── client/      # Frontend
+├── server/      # Backend
 └── README.md
+```
 
-npm start
+---
+
+## 📌 Notes
+
+- Make sure Node.js is installed on your system.
+- Run frontend and backend in separate terminals.
+- Ensure MongoDB is running before starting the backend.
+
